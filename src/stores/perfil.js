@@ -7,7 +7,7 @@ import html from '@/assets/img/html.png';
 import python from '@/assets/img/python.png';
 import vue from '@/assets/img/vue.png';
 import django from '@/assets/img/django.svg';
-import bensa from '@/assets/img/henrique-img.png';
+import bensa from '@/assets/img/BensaStreetWear.jpg';
 import embreve from '@/assets/img/em-breve.jpeg';
 
 export const usePerfilStore = defineStore('perfil', () => {
@@ -19,7 +19,7 @@ export const usePerfilStore = defineStore('perfil', () => {
             linkLinkedIn: 'https://www.linkedin.com/in/henrique-chepli-de-souza-140837357/',
             linkGithub: 'https://github.com/henriquechepli',
             linkInstagram: 'https://www.instagram.com/hchepli/',
-            avatar: henrique,
+            avatar: [],
             linguagens: [javascript, css, html, python, vue, django],
             descricaoHabilidades: 'Comecei na área de programação em 2023, com HTML, CSS E JavaScript basico, desde lá, venho estudando essas linguagens. Em 2024 comecei a usar o Framework Vue.js, foi nesse periodo que comecei a me apaixonar por essa área. Nesse inicio de 2025, comecei a estudar a parte de BackEnd com Python e Django. ',
             projetos: [

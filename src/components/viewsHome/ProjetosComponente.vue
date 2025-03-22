@@ -83,7 +83,7 @@ const perfil = perfilStore.perfil[0];
 }
 
 .mainProjetos .projetos .projeto a img {
-  width: 300px;
+  width: 325px;
   border-radius: 10px;
 }
 
